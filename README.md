@@ -34,5 +34,5 @@ First C language lab tasks repository
 - [ ] Hello World progarm
 - [ ] Swaping two numbers
 
-### Linus
-[Creater of Git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Flinuxs-linus-torvalds-sorry-for-being-a-jerk&psig=AOvVaw0-A8NmdEEnR98AI0JtlhmO&ust=1756796670191000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPj-n-3_to8DFQAAAAAdAAAAABAE)
+### Linus Creater of Github
+![Creater of Git](https://upload.wikimedia.org/wikipedia/commons/e/e8/Lc3_2018_%28263682303%29_%28cropped%29.jpeg)
